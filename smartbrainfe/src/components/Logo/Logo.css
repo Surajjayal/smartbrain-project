@@ -1,0 +1,7 @@
+.Tilt{
+    background: rgb(34, 193, 195);
+    background: -moz-radial-gradient(circle, rgba(34, 193, 195, 1) 0%, rgba(244, 45, 253, 1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(34, 193, 195, 1) 0%, rgba(244, 45, 253, 1) 100%);
+    background: radial-gradient(circle, rgba(34, 193, 195, 1) 0%, rgba(244, 45, 253, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3", endColorstr="#f42dfd", GradientType=1);
+}
